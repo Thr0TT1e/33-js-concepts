@@ -1,7 +1,7 @@
 ﻿<h1 align="center">
 <br>
   <a href="https://github.com/gumennii/33-js-concepts"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 концепта каждый JavaScript разработчик должен знать" width=200"></a>
-  <br>33 Концепта<br>Каждый JavaScript Разработчик Должен Знать
+  <br>33 Концепта,<br>которые должен знать каждый JavaScript-разработчик
   <br><br>
 </h1>
 
